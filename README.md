@@ -8,11 +8,7 @@ you wating for? Start creating something awesome! Good Luck!
 
 ## Screenshots
 
-<br>
-![](1.png)
-![](2.png)
-![](3.png)
-<br>
+![](1.png) ![](2.png) ![](3.png)
 
 ### Prerequisites
 
